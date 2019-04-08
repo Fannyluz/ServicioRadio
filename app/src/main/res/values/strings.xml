@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ServicioRadio</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt_titulo">Servicio de Reproduccion</string>
+    <string name="btn_lanzar">Lanzar Servicio</string>
+    <string name="btn_detener">Detener Servicio</string>
+</resources>
